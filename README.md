@@ -1,6 +1,6 @@
 # scratchpad
 
-## Google Colab:
+## Using Google Colab:
 
 0. Fork this repo, so you can save changes across class sessions.
 1. In Google Colab, create a new notebook.
@@ -15,7 +15,7 @@ This will download and extract the course data for you.
 
 3. When you're done, use `Save a Copy in GitHub` to save your notebook back to your `scratchpad` repo as `nb_2026_mm_dd.ipynb`.
 
-## Rivanna HPC, or locally:
+## Using Rivanna HPC, or locally:
 
 0. Fork this repo, so can clone and push easily
 1. Start a VS Code Server session on Rivanna
