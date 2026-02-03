@@ -45,8 +45,9 @@ def outlier_analyze(x):
 # %%
 sns.boxplot(x = df["price"])
 # %%
-df.loc[upper_outlier, :]
+#df.loc[upper_outlier, :]
 # dataframe of outliers only
+
 # %%
 # 3 stategies for dealing with outliers
 # 1. Remove the outliers
